@@ -1,0 +1,29 @@
+_repo: Studies-in-the-Poetry-of-ItalyPart-II.-Italian_34870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kuhns, Oscar
+    aliases:
+    - Kuhns, Levi Oscar
+    - Kuhns, L. Oscar (Levi Oscar)
+    birthdate: 1856
+    deathdate: 1929
+    gutenberg_agent_id: '37291'
+    url: http://www.gutenberg.org/2009/agents/37291
+description: ''
+gutenberg_issued: '2011-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry -- History and criticism'
+- !lcc 'PQ'
+title: Studies in the Poetry of Italy, Part II. Italian
+url: http://www.gutenberg.org/ebooks/34870
