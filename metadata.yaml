@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37291'
     url: http://www.gutenberg.org/2009/agents/37291
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34870#Studies-in-the-Poetry-of-ItalyPart-II.-Italian
 gutenberg_issued: '2011-01-07'
 gutenberg_type: Text
 identifiers:
